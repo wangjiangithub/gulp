@@ -1,6 +1,13 @@
 var gulp = require('gulp'),
 	clean = require('gulp-clean'),
 	rev = require('gulp-rev');
+    // concat = require('gulp-concat'),
+    // revReplace = require('gulp-rev-replace'),
+    // useref = require('gulp-useref'),
+    // revReplace = require('gulp-rev-replace'),
+    // revCollector = require('gulp-rev-collector'),
+    // zip = require('gulp-zip'),
+    // chalk = require('chalk');
 
 
 gulp.task('clean', function() {
